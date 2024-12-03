@@ -1,0 +1,94 @@
+# General OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Maven specific files
+target/
+release/
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Class files
+*.class
+
+# Generated files
+*.war
+*.ear
+*.jar
+
+# Config files
+*.env
+.env*
+*.properties
+
+# Docker specific files
+**/.dockerignore
+**/docker-compose.override.yml
+**/.env
+.docker/
+**/docker-compose.override.yml.bak
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.~
+
+# Backup files
+*.bak
+*.old
+
+# Intellij IDEA generated files
+.idea/
+*.ipr
+*.iws
+out/
+
+# Eclipse generated files
+*.metadata
+*.classpath
+*.project
+*.settings/
+
+# NetBeans generated files
+nbproject/private/
+build/
+dist/
+
+# JetBrains
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Logs and database files
+logs/
+*.log
+*.sql
+*.sqlite
+
+# Node specific (if frontend included)
+node_modules/
+
+# Docker specific
+**/.dockerignore
+**/docker-compose.override.yml
